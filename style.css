@@ -174,7 +174,7 @@ input:checked + .slider:before {
 /* language-toggle */
 
 .header--bg {
-  background-image: url(../images/header-bg.png);
+  background-image: url(./images/header-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -275,7 +275,7 @@ input:checked + .slider:before {
 /* quote-section */
 /* trailer-section */
 .trailer-section {
-  background-image: url(../images/main-bg.png);
+  background-image: url(./images/main-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -292,7 +292,7 @@ input:checked + .slider:before {
 /* trailer-section */
 /* lanuage-section */
 .language-section {
-  background: url(../images/main-bg2.png);
+  background: url(./images/main-bg2.png);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -365,7 +365,7 @@ input:checked + .slider:before {
 .footer-bg::before {
   content: "";
 
-  background: url(../images/footer-bg.png);
+  background: url(./images/footer-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 
