@@ -211,7 +211,8 @@ input:checked + .slider:before {
   cursor: pointer;
 }
 .header__btn {
-  padding: 25px 75px;
+  width: 260px;
+  height: 80px;
   margin-top: 42px;
 }
 .btn__txt {
