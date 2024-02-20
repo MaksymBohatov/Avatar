@@ -36,7 +36,7 @@ html {
 .nav-bg::before {
   content: "";
 
-  background: url(../images/nav-bg.png);
+  background: url(./images/nav-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
 
