@@ -21,7 +21,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "Vector 9"
+          "vector 9"
         ]
       },
       "attrs": [
@@ -37,7 +37,7 @@
       "properties": {
         "order": 20,
         "id": 1,
-        "name": "Vector-9",
+        "name": "vector-9",
         "prevSize": 32
       },
       "setIdx": 0,
@@ -64,7 +64,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "Vector 8"
+          "vector 8"
         ]
       },
       "attrs": [
@@ -80,7 +80,7 @@
       "properties": {
         "order": 21,
         "id": 0,
-        "name": "Vector-8",
+        "name": "vector-8",
         "prevSize": 32
       },
       "setIdx": 0,

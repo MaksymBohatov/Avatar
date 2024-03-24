@@ -14,26 +14,16 @@ Single-colored icons can be modified like so:
   color: red;
 }
 ========================================== */
-
-.icon-Vector-9 {
-  width: 194px;
-}
-
-.icon-Vector-8 {
-  width: 269px;
-}
-
-.icon-youtube-1 {
-  width: 1.6669921875em;
+.icon-inst-1 {
+  width: 32px;
+  height: 32px;
 }
 
 .icon-twitter-1 {
-  width: 1.1337890625em;
+  width: 35px;
+  height: 32px;
 }
-.icon-inst-1 {
-  fill: white;
-}
-a {
-  fill: white;
-  
+.icon-youtube-1 {
+  width: 54px;
+  height: 32px;
 }
